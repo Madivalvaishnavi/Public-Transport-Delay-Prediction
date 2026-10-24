@@ -1,0 +1,4 @@
+Model,MAE_Minutes,RMSE_Minutes,R2_Score
+gradient_boosting,2.034,2.525,0.7495
+random_forest,2.241,2.765,0.6998
+linear_regression,2.38,2.926,0.6636
